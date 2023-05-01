@@ -4,7 +4,7 @@ public class HomePageTest {
 	
 public void homeTest() {
 		
-		System.out.println("In Home Page Test - homeTest method");
+		System.out.println("In Home Page Test - homeTest method-1");
 	}
 
 }
